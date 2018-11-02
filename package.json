@@ -1,0 +1,11 @@
+{
+  "name": "traversy_js_code_challenge",
+  "version": "1.0.0",
+  "description": "> Intermediate JavaScript challenges.",
+  "main": "/session1/index_start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
